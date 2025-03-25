@@ -57,12 +57,3 @@ The **Student Database Management System** is a C-based project designed to effi
 - GUI version using Python or Java
 - Enhanced security features (authentication & encryption)
 
-## Contributors ✨
-
-Thanks to these amazing contributors:
-
-- [@AkshitSadotra](https://github.com/akshit-123-lab)
-- [@JoyntiMahato](https://github.com/Joynti)
-- [@PriyaMahato](https://github.com/SOhniYo)
-- [@RaunakRaj](https://github.com/Raunak40)
-
